@@ -14,6 +14,50 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+## Description
+${data.description}
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+${data.installation}
+
+## Usage
+
+${data.usage}
+
+## Credits
+
+Collaborators
+ - ${data.collaborators}
+
+Third Party Assets
+- ${data.thirdPartyAssets}
+
+Tutorials
+- ${data.tutorials}
+
+## License
+      
+${data.license}
+
+## Badges
+
+![${data.badgeName}](${data.badgeURL})
+
+## Features
+
+${data.features}
+
+## How to Contribute
+
+## Tests
+
+${data.tests}
 `;
 }
 
