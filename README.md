@@ -1,1 +1,1 @@
-# Professional-README-Generator
+{"license":"MIT","framework":"react"}
