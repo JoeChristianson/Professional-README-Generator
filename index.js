@@ -40,7 +40,13 @@ const generateMarkdown = require("./utils/generateMarkdown");
     type: 'input', message: "List tests that can be run", name: 'tests', 
 },
 {
-    type: 'input', message: "How to contribute?", name: 'tests', 
+    type: 'input', message: "How to contribute?", name: 'contribute', 
+},
+{
+    type: 'input', message: "What is your e-mail?", name: 'email', 
+},
+{
+    type: 'input', message: "What is your github link?", name: 'tests', 
 },
 ];
 

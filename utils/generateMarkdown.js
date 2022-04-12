@@ -28,11 +28,13 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-    const licenseLink = renderLicenseLink(license);
+    const licenseLink = renderLicenseBadge(license);
     if (!licenseLink) return "";
     return `
-##License
-${licenseLink}`
+## License
+
+This app is covered by the ${license} license. For more information, visit ${licenseLink.licenseURL}.
+`
 }
 
 // TODO: Create a function to generate markdown for README
@@ -43,31 +45,36 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${licenseLink}
 ## Description
-${data.description}
+    ${data.description}
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Features](#features)
+- [Contribute](#contribute)
+- [Tests](#tests)
+- [Questions](#questions)
 - [License](#license)
 
 ## Installation
-  ${data.installation}
+
+    ${data.installation}
 
 ## Usage
 
-  ${data.usage}
+    ${data.usage}
 
 ## Credits
 
-  Collaborators
-  - ${data.collaborators}
+    Collaborators
+    - ${data.collaborators}
 
-  Third Party Assets
-  - ${data.thirdPartyAssets}
+    Third Party Assets
+    - ${data.thirdPartyAssets}
 
-  Tutorials
-  - ${data.tutorials}
+    Tutorials
+    - ${data.tutorials}
 
 ## Features
 
@@ -75,11 +82,18 @@ ${data.description}
 
 ## How to Contribute
 
-  ${data.howToContribute}
+    ${data.contribute}
   
 ## Tests
 
-${data.tests}
+    ${data.tests}
+
+## Questions
+
+    Any questions? Contact me at:
+    - E-mail: ${data.email}
+    - GitHub: ${data.github}
+    - Other means: ${data.otherContacts}
 
 ${licenseSection}
 `;

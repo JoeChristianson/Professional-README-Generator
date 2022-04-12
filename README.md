@@ -1,36 +1,42 @@
-# code
+# Read me
+  
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Description
-    dfkfjdfjokla;f
-
+    done to help people read what's going on
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Features](#features)
+- [Contribute](#contribute)
+- [Tests](#tests)
+- [Questions](#questions)
 - [License](#license)
 
 ## Installation
-    loremdsaf dsfjdkls dmf
+
+    do this, do that, do some other thing
 
 ## Usage
 
-    fldmasfkl melkfmds mlkemfa mlk ea
+    None added
 
 ## Credits
 
-    Collaborators
-    - See link
+  Collaborators
+  - Nope
 
-    Third Party Assets
-    - Now
+  Third Party Assets
+  - Yep, inquirer
 
-    Tutorials
-    - Nope
+  Tutorials
+  - No
 
 ## Features
 
-    fdsfds
+  One two three
 
 ## How to Contribute
 
@@ -38,6 +44,17 @@
   
 ## Tests
 
-    sdf
+    github.JoeChristianson.io
 
+## Questions
+
+    Any questions? Contact me at:
+    - E-mail: jcfargond@gmail.com
+    - GitHub: undefined
+    - Other means: undefined
+
+
+## License
+
+This app is covered by the Apache license. For more information, visit https://opensource.org/licenses/Apache-2.0
 
