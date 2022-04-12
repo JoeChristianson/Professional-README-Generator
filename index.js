@@ -30,13 +30,8 @@ const generateMarkdown = require("./utils/generateMarkdown");
         'MIT',
         'Apache',
         'GPL',
+        'none specified',
     ]
-},
-{
-    type: 'input', message: "Badge Name?", name: 'badgeName', 
-},
-{
-    type: 'input', message: "Badge URL?", name: 'badgeURL', 
 },
 {
     type: 'input', message: "List the apps features", name: 'features', 
@@ -44,7 +39,9 @@ const generateMarkdown = require("./utils/generateMarkdown");
 {
     type: 'input', message: "List tests that can be run", name: 'tests', 
 },
-    
+{
+    type: 'input', message: "How to contribute?", name: 'tests', 
+},
 ];
 
  
