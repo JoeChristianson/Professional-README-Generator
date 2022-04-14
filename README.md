@@ -22,12 +22,11 @@
 ## Usage
 
     
-
-    ![Screenshot 0](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/screenshot.png "Screenshot")
+![Screenshot 0](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/screenshot.png "Screenshot")
         
-        ![Screenshot 1](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss2.png "Screenshot")
+![Screenshot 1](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss2.png "Screenshot")
         
-        ![Screenshot 2](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss3.png "Screenshot")
+![Screenshot 2](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss3.png "Screenshot")
         
         
 
