@@ -1,9 +1,9 @@
-# Read me
+# 
   
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Description
-    done to help people read what's going on
+    
 ## Table of Contents
 
 - [Installation](#installation)
@@ -17,44 +17,52 @@
 
 ## Installation
 
-    do this, do that, do some other thing
+    
 
 ## Usage
 
-    None added
+    
+
+    ![Screenshot 0](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/screenshot.png "Screenshot")
+        
+        ![Screenshot 1](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss2.png "Screenshot")
+        
+        ![Screenshot 2](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss3.png "Screenshot")
+        
+        
 
 ## Credits
 
-  Collaborators
-  - Nope
+    ### Collaborators
+    - 
 
-  Third Party Assets
-  - Yep, inquirer
+    ### Third Party Assets
+    - 
 
-  Tutorials
-  - No
+    ### Tutorials
+    - 
 
 ## Features
 
-  One two three
+    - 
 
 ## How to Contribute
 
-    undefined
+    
   
 ## Tests
 
-    github.JoeChristianson.io
+    
 
 ## Questions
 
     Any questions? Contact me at:
-    - E-mail: jcfargond@gmail.com
+    - E-mail: 
     - GitHub: undefined
     - Other means: undefined
 
 
 ## License
 
-This app is covered by the Apache license. For more information, visit https://opensource.org/licenses/Apache-2.0
+This app is covered by the MIT license. For more information, visit https://opensource.org/licenses/Apache-2.0.
 

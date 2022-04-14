@@ -25,6 +25,21 @@ function renderLicenseLink(license) {
   `
 }
 
+function screenshotsSection(screenshots){
+    if (!screenshots){
+        return ""
+    }
+    const array = screenshots.split(" ");
+    let res = "";
+    for (let i=0;i<array.length;i++){
+        res+=`![Screenshot ${i}](${array[i]} "Screenshot")
+        
+        `
+    }
+    return res;
+}
+
+
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
@@ -65,20 +80,22 @@ function generateMarkdown(data) {
 
     ${data.usage}
 
+    ${screenshotsSection(data.screenshots)}
+
 ## Credits
 
-    Collaborators
+    ### Collaborators
     - ${data.collaborators}
 
-    Third Party Assets
+    ### Third Party Assets
     - ${data.thirdPartyAssets}
 
-    Tutorials
+    ### Tutorials
     - ${data.tutorials}
 
 ## Features
 
-  ${data.features}
+    - ${data.features}
 
 ## How to Contribute
 

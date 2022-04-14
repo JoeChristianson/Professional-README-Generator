@@ -14,7 +14,10 @@ const generateMarkdown = require("./utils/generateMarkdown");
     type: 'input', message: "Describe what steps are needed for installation.", name: 'installation', 
 },
 {
-    type: 'input', message: "What are some examples of usage? Add screenshots.", name: 'usage', 
+    type: 'input', message: "What are some examples of usage?", name: 'usage', 
+},
+{
+    type: 'input', message: "Add Screenshots, separate by spaces", name: 'screenshots', 
 },
 {
     type: 'input', message: "Are their any other collaborators? Link their github profiles.", name: 'collaborators', 
