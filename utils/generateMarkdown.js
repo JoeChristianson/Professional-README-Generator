@@ -75,43 +75,43 @@ function generateMarkdown(data) {
 
 ## Installation
 
-    ${data.installation}
+${data.installation}
 
 ## Usage
 
-    ${data.usage}
+${data.usage}
 
-    ${screenshotsSection(data.screenshots)}
+${screenshotsSection(data.screenshots)}
 
 ## Credits
 
-    Collaborators
-    - ${data.collaborators}
+Collaborators
+- ${data.collaborators}
 
-    Third Party Assets
-    - ${data.thirdPartyAssets}
+Third Party Assets
+- ${data.thirdPartyAssets}
 
-    Tutorials
-    - ${data.tutorials}
+Tutorials
+- ${data.tutorials}
 
 ## Features
 
-    - ${data.features}
+- ${data.features}
 
 ## How to Contribute
 
-    ${data.contribute}
+${data.contribute}
   
 ## Tests
 
-    ${data.tests}
+${data.tests}
 
 ## Questions
 
-    Any questions? Contact me at:
-    - E-mail: ${data.email}
-    - GitHub: ${data.github}
-    - Other means: ${data.otherContacts}
+Any questions? Contact me at:
+- E-mail: ${data.email}
+- GitHub: ${data.github}
+- Other means: ${data.otherContacts}
 
 ${licenseSection}
 `;

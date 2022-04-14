@@ -49,7 +49,10 @@ const generateMarkdown = require("./utils/generateMarkdown");
     type: 'input', message: "What is your e-mail?", name: 'email', 
 },
 {
-    type: 'input', message: "What is your github link?", name: 'tests', 
+    type: 'input', message: "What is your github link?", name: 'github', 
+},
+{
+    type: 'input', message: "How else can you be contacted?", name: 'otherContacts', 
 },
 ];
 
