@@ -1,9 +1,9 @@
-# o
+# Movie Generator
   
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Description
-    o
+    An app that displays random movies in detail for a user to add to a watch later queue. App helps user find novel movies they may have never seen.
 ## Table of Contents
 
 - [Installation](#installation)
@@ -17,11 +17,11 @@
 
 ## Installation
 
-    o
+    No installation required. Works on a browser as is.
 
 ## Usage
 
-    o
+    Create and update a list of movies to watch later. Sort list by different parameters. Filter by genre, rating or text. Rate movies once done watching them.
 
     
 ![Screenshot 0](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/screenshot.png "Screenshot")
@@ -36,31 +36,31 @@
 
 ## Credits
 
-    ### Collaborators
-    - o
+    Collaborators
+    - Ethan Johnson github.com/AmplifyRebel, Sarah Turner github.com/smTurner, Jackson Williams github.com/bradjackwilliams
 
-    ### Third Party Assets
-    - o
+    Third Party Assets
+    - Random Movie API developed by Ketuman Vishwakarma: https://github.com/k2maan and Random Movie API developed by Ketuman Vishwakarma: https://github.com/k2maan
 
-    ### Tutorials
-    - o
+    Tutorials
+    - https://www.omdbapi.com/
 
 ## Features
 
-    - o
+    - Sort Queue, Save Queue to Local Storage, Rate Movies
 
 ## How to Contribute
 
-    o
+    Send email.
   
 ## Tests
 
-    o
+    github.com/JoeChristianson
 
 ## Questions
 
     Any questions? Contact me at:
-    - E-mail: o
+    - E-mail: joechristiansonwebdev@gmail.com
     - GitHub: undefined
     - Other means: undefined
 

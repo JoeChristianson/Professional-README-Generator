@@ -85,13 +85,13 @@ function generateMarkdown(data) {
 
 ## Credits
 
-    ### Collaborators
+    Collaborators
     - ${data.collaborators}
 
-    ### Third Party Assets
+    Third Party Assets
     - ${data.thirdPartyAssets}
 
-    ### Tutorials
+    Tutorials
     - ${data.tutorials}
 
 ## Features
