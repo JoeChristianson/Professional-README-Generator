@@ -1,9 +1,9 @@
-# d
+# o
   
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Description
-    d
+    o
 ## Table of Contents
 
 - [Installation](#installation)
@@ -17,11 +17,11 @@
 
 ## Installation
 
-    d
+    o
 
 ## Usage
 
-    d
+    o
 
     
 ![Screenshot 0](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/screenshot.png "Screenshot")
@@ -37,30 +37,30 @@
 ## Credits
 
     ### Collaborators
-    - h
+    - o
 
     ### Third Party Assets
-    - h
+    - o
 
     ### Tutorials
-    - 
+    - o
 
 ## Features
 
-    - 
+    - o
 
 ## How to Contribute
 
-    
+    o
   
 ## Tests
 
-    
+    o
 
 ## Questions
 
     Any questions? Contact me at:
-    - E-mail: 
+    - E-mail: o
     - GitHub: undefined
     - Other means: undefined
 
