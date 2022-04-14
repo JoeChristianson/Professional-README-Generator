@@ -1,9 +1,9 @@
-# 
+# d
   
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Description
-    
+    d
 ## Table of Contents
 
 - [Installation](#installation)
@@ -17,27 +17,30 @@
 
 ## Installation
 
-    
+    d
 
 ## Usage
 
-    
+    d
 
-    ![Screenshot 0](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/screenshot.png "Screenshot")
+    
+![Screenshot 0](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/screenshot.png "Screenshot")
         
-        ![Screenshot 1](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss2.png "Screenshot")
+
+![Screenshot 1](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss2.png "Screenshot")
         
-        ![Screenshot 2](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss3.png "Screenshot")
+
+![Screenshot 2](https://github.com/AmplifyRebel/movie-generator/blob/main/assets/screenshots/ss3.png "Screenshot")
         
-        
+
 
 ## Credits
 
     ### Collaborators
-    - 
+    - h
 
     ### Third Party Assets
-    - 
+    - h
 
     ### Tutorials
     - 

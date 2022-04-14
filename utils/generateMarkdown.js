@@ -21,7 +21,7 @@ function renderLicenseLink(license) {
   const licenseBadge = renderLicenseBadge(license);
   if (!licenseBadge) return "";
   return `
-  [![License](${licenseBadge.badge})](${licenseBadge.licenseURL})
+[![License](${licenseBadge.badge})](${licenseBadge.licenseURL})
   `
 }
 
@@ -32,9 +32,10 @@ function screenshotsSection(screenshots){
     const array = screenshots.split(" ");
     let res = "";
     for (let i=0;i<array.length;i++){
-        res+=`![Screenshot ${i}](${array[i]} "Screenshot")
+        res+=`
+![Screenshot ${i}](${array[i]} "Screenshot")
         
-        `
+`
     }
     return res;
 }
