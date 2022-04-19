@@ -72,7 +72,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
 async function init() {
     const ans = await inquirer.prompt(questions);
     console.log(ans)
-    writeToFile("README.md",ans)
+    writeToFile("./samples/README.md",ans)
 }
 
 // Function call to initialize app

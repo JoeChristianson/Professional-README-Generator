@@ -61,7 +61,9 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${licenseLink}
 ## Description
-    ${data.description}
+
+${data.description}
+
 ## Table of Contents
 
 - [Installation](#installation)
